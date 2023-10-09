@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://gitlab.rebrainme.com/devops_users_repos/5511/rebrain-devops-task1/-/blob/master/logo_rebrain.svg" height="128"/></h1>
+![](/logo_rebrain.svg) 
 <h3 align="center">Компания занимающаяся подготовкой специалистов в сфере IT</h3>
 
 # Курс DevOps - инженер
